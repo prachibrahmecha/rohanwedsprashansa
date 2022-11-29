@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/rohanwedsprashansa/static/media/kesariya.92aea05e.mp3"
   },
   {
-    "revision": "fb5d1241856a1daa35537ec7de555e51",
+    "revision": "77dc6b703ba31e665292913ad12a9ead",
     "url": "/rohanwedsprashansa/index.html"
   }
 ];
